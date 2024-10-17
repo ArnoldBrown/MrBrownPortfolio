@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MrBrownPortfolio/static/css/main.3279ac5c.css",
+    "main.js": "/MrBrownPortfolio/static/js/main.38eae879.js",
+    "static/media/profileeOrg.png": "/MrBrownPortfolio/static/media/profileeOrg.7641f43aea7e822f37a6.png",
+    "static/media/profile.png": "/MrBrownPortfolio/static/media/profile.9bb3864172a46f6d7af7.png",
+    "static/media/project2.webp": "/MrBrownPortfolio/static/media/project2.fc906070e9796abe3650.webp",
+    "static/media/arnold.pdf": "/MrBrownPortfolio/static/media/arnold.477d8470c047db0814b4.pdf",
+    "static/media/project3.webp": "/MrBrownPortfolio/static/media/project3.b094b696f75369270c95.webp",
+    "static/media/project1.webp": "/MrBrownPortfolio/static/media/project1.f2c54a35bc5d07af37ea.webp",
+    "static/media/woman1.png": "/MrBrownPortfolio/static/media/woman1.bf207e1501b3e3a89339.png",
+    "static/media/woman2.png": "/MrBrownPortfolio/static/media/woman2.1badb7321889e9b9ceaf.png",
+    "static/media/man.png": "/MrBrownPortfolio/static/media/man.58008a565ab6f0db4d93.png",
+    "index.html": "/MrBrownPortfolio/index.html",
+    "main.3279ac5c.css.map": "/MrBrownPortfolio/static/css/main.3279ac5c.css.map",
+    "main.38eae879.js.map": "/MrBrownPortfolio/static/js/main.38eae879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3279ac5c.css",
+    "static/js/main.38eae879.js"
+  ]
+}
