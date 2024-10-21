@@ -10,14 +10,7 @@ const Backend = () => {
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">Sqlite</h3>
-                        <span className="skills__level">Expert</span>
-                    </div>
-                </div>
-                <div className="skills__data">
-                    <HiCheckBadge />
-                    <div>
-                        <h3 className="skills__name">Realm</h3>
+                        <h3 className="skills__name">Sqlite/Realm</h3>
                         <span className="skills__level">Expert</span>
                     </div>
                 </div>
@@ -25,7 +18,14 @@ const Backend = () => {
                     <HiCheckBadge />
                     <div>
                         <h3 className="skills__name">MySQL</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level">Expert</span>
+                    </div>
+                </div>
+                <div className="skills__data">
+                    <HiCheckBadge />
+                    <div>
+                        <h3 className="skills__name">Reactotron</h3>
+                        <span className="skills__level">Expert</span>
                     </div>
                 </div>
             </div>
@@ -40,8 +40,8 @@ const Backend = () => {
                 <div className="skills__data">
                     <HiCheckBadge />
                     <div>
-                        <h3 className="skills__name">Reactotron</h3>
-                        <span className="skills__level">Basic</span>
+                        <h3 className="skills__name">RestApi/GraphQL</h3>
+                        <span className="skills__level">Expert</span>
                     </div>
                 </div>
                 <div className="skills__data">
